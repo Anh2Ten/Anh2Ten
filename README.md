@@ -2,7 +2,7 @@
 
 
 
-# 💻Một Số Sì Kiu
+# 💻Ngôn Ngữ Tớ Dùng
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=anh2ten&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
